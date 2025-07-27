@@ -1,4 +1,4 @@
-# AI-Powered Text-Based Games
+# AI-Powered Text-Based Mini Games
 
 This project is an interactive web application that explores creative applications of natural language processing (NLP). It features a set of mini-games including AI-generated storytelling, word association challenges, and riddles. The frontend is built using React and Tailwind CSS, while the backend is powered by Flask and machine learning models.
 
