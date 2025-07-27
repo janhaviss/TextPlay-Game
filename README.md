@@ -94,3 +94,7 @@ The application can be deployed using:
 - **Netlify** or **Vercel** for deploying the React frontend
 
 Be sure to use environment variables for API keys and secrets in deployment environments.
+
+## Preview
+<img width="959" height="442" alt="image" src="https://github.com/user-attachments/assets/5b2ce8ba-d3d4-49ad-9e06-82cbe7f5fd97" />
+
